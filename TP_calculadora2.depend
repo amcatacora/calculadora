@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637184822 source:c:\users\adrian catacora\desktop\utn\programacion\proyectos\tp_calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"funciones.h"
+
+1637157665 source:c:\users\adrian catacora\desktop\utn\programacion\proyectos\tp_calculadora2\funciones.c
+
+1637157654 c:\users\adrian catacora\desktop\utn\programacion\proyectos\tp_calculadora2\funciones.h
+
